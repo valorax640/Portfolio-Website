@@ -1,0 +1,104 @@
+.x-back-1 {
+  background-color: #be0e2e !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.x-back-2 {
+  background-color: #be0e2e !important;
+}
+
+.show-img {
+  border-radius: 15%;
+  transition: 0.5s ease;
+}
+
+.x-show-img-container {
+  overflow: hidden;
+  border-radius: 15%;
+}
+
+.show-img:hover {
+  transform: scale(1.05);
+}
+
+.x-hero-name {
+  color: white;
+}
+
+.typewrite {
+  color: white;
+  text-decoration: none;
+}
+
+.x-type-effect {
+  color: white;
+}
+
+.x-hero-button {
+  background-color: transparent !important;
+  color: white !important;
+}
+
+.x-para-about {
+  text-align: justify !important;
+  color: #cfd4de;
+}
+
+.x-about {
+  background-color: #be0e2e !important;
+}
+
+.x-skill-sec{
+  border-radius: 5%;
+  padding-top: 35% !important;
+  padding-bottom: 35% !important;
+  width: 100%;
+  background-color: #cb2140 !important;
+  box-shadow: 0 0 5px #cfd4de;
+  transition: 0.5s ease;
+  
+}
+
+.x-skill-sec:hover{
+  box-shadow: 0 0 10px #cfd4de;
+  transform: scale(1.02);
+}
+
+.x-skills{
+  background-color: #be0e2e;
+}
+
+.x-skill-name{
+  color: #cfd4de !important;
+}
+
+.x-experience-1{
+  background-color: #be0e2e !important;
+}
+
+.x-exp-para{
+  color: #cfd4de;
+  text-align: justify;
+}
+
+.x-exp-para-head{
+  color: white
+}
+
+.x-black-head{
+  color: black;
+}
+
+.x-footer{
+  padding-top: 2.5%;
+  padding-bottom: 5%;
+  background-color: #be0e2e;
+}
+
+.x-footer-btn{
+  border: 1px solid #cfd4de;
+  color: white;
+}
